@@ -28,10 +28,9 @@ h1 {
 
 p {
     font-family: Helvetica;
-    font-size: bold;
     color: black; 
 }
 
-.important {
+span {
     font-weight: bold;
 }

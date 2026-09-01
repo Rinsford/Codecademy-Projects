@@ -2,6 +2,21 @@
     background-color:darkblue;
     color: white;
     font-weight: bold;
-    font-family: 'Times New Roman';
+    font-family: Georgia, serif;
     font-size: 24px;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+#projects-bio {
+    font-weight: bold;
+    font-family: Georgia, serif;
+}
+
+li {
+    font-family: Georgia, serif;
+    font-weight: bold;    
 }
